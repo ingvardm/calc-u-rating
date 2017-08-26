@@ -1,6 +1,8 @@
 Instalation
 ===========
 
+npm i calc-u-rating -S
+
 Usage
 =====
 ### Two players game:
