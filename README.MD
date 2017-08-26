@@ -5,7 +5,7 @@ Usage
 =====
 ### Two players game:
 ```
-import { processSession } from './index.js'
+import { processSession } from 'calc-u-rating'
 
 gameRasult = [
     { //player 1
@@ -23,7 +23,7 @@ console.log(processSession(gameRasult))
 
 ### Teams:
 ```
-import * as calculator from './index.js'
+import * as calculator from 'calc-u-rating'
 
 calculator.configure({
     RSDF: 800,
